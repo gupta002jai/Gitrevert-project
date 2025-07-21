@@ -1,3 +1,3 @@
 const sequelize =require("./dbconfig");
 
-jai
+jai 
